@@ -1,6 +1,0 @@
-[pytest]
-addopts = -ra -q --alluredir=reports/allure
-markers =
-    ui: UI tests
-testpaths = tests
-python_files = test_*.py
